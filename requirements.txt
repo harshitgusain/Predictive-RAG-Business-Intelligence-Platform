@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+chromadb
+ollama
+sentence-transformers
+scikit-learn
+statsmodels
+numpy
