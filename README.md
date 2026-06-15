@@ -55,8 +55,6 @@ To complement the conversational AI, the Power BI suite tracks high-level operat
 - **Advanced DAX Metrics:** Year-over-Year (YoY) growth lines, profit-margin tracking, and running cumulative sales.
 - **Dimensional Cross-Filtering:** Interactive global slicers across geographic regions, product market categories, and distribution segments.
 
-![Power BI Dashboard View](media/powerbi_screenshot.png)
-
 ---
 
 ## 📂 Repository Structure
